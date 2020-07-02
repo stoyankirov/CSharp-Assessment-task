@@ -1,0 +1,7 @@
+D:\Programming\C#\AssessmentTask\bin\Debug\AssessmentTask.exe.config
+D:\Programming\C#\AssessmentTask\bin\Debug\AssessmentTask.exe
+D:\Programming\C#\AssessmentTask\bin\Debug\AssessmentTask.pdb
+D:\Programming\C#\AssessmentTask\obj\Debug\AssessmentTask.csprojAssemblyReference.cache
+D:\Programming\C#\AssessmentTask\obj\Debug\AssessmentTask.csproj.CoreCompileInputs.cache
+D:\Programming\C#\AssessmentTask\obj\Debug\AssessmentTask.exe
+D:\Programming\C#\AssessmentTask\obj\Debug\AssessmentTask.pdb
