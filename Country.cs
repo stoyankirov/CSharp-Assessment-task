@@ -21,7 +21,7 @@ namespace AssessmentTask
                 int count = Scores.Count();
                 if(count % 2 == 0)
                 {
-                    return (Scores[count / 2] + Scores[count / 2 - 1]) / 2;
+                    return (Scores[count / 2] + Scores[count / 2 - 1]) / 2.0;
                 }
                 else
                 {
